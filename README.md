@@ -1,8 +1,10 @@
-<h1 align="center">Hai 👋, saya Reza mahendra</h1>
-<h3 align="center">saya merupakan programmer pemula yang bersemangat untuk menjadi seorang profesional programmer, saya dari kota pagar alam sumatra selatan</h3>
+<h1 align="center">Hai 👋, Kenalin Saya Reza Mahendra</h1>
+<h3 align="center">Saya Merupakan Programmer Pemula Yang Bersemangat Untuk Menjadi Seorang Profesional Programmer, Saya Dari Kota Pagar Alam Sumatra Selatan</h3>
 
-<h3 align="left">Connect with me:</h3>
-yt : pejuang sekolah online
+<h3 align="left">Kontak Saya:</h3>
+Yt : Pejuang Sekolah Online
+Wa : 0821-8193-6454
+Web : https://heylink.me/Ejak
 <p align="left">
 </p>
 
