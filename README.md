@@ -2,9 +2,9 @@
 <h3 align="center">Saya Merupakan Programmer Pemula Yang Bersemangat Untuk Menjadi Seorang Profesional Programmer, Saya Dari Kota Pagar Alam Sumatra Selatan</h3>
 
 <h3 align="left">Kontak Saya:</h3>
-Yt : Pejuang Sekolah Online
-Wa : 0821-8193-6454
-Web : https://heylink.me/Ejak
+<p> Yt : Pejuang Sekolah Online </p>
+<p> Wa : 0821-8193-6454 </p>
+<p> Web : https://heylink.me/Ejak </p>
 <p align="left">
 </p>
 
