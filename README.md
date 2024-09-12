@@ -7,7 +7,7 @@
 
 **`📺(Web Developer & Programmer)`**
 
-Saya Merupakan Programmer Pemula Yang Bersemangat Untuk Menjadi Seorang Profesional Programmer, Saya Dari Kota Pagar Alam Sumatra Selatan. Disini teman-teman boleh mendownload code saya dengan syarat gunakanlah sebaik mungkin karena disini saya juga upload source code Malware, Ransomeware, Trojan dan menyedikan Tools Ethikal Haking apabilah teman-teman menggunakannya untuk kejahatan bukan untuk pembelajaran saya tidak ikhlas code saya diambil dan digunakan untuk kejahatan, atas perhatiannya Terimakasih.
+Saya Merupakan Programmer Pemula Yang Bersemangat Untuk Menjadi Seorang Profesional Programmer, Saya Dari Kota Pagar Alam Sumatra Selatan. Saya memiliki dasar yang kuat dalam beberapa bahasa pemrograman dan terus belajar untuk meningkatkan keterampilan saya di dunia teknologi. Fokus saya saat ini adalah mengembangkan kemampuan dalam pemrograman dan mencari peluang untuk berkontribusi dalam proyek-proyek nyata yang dapat memberikan dampak positif untuk masyarakat indonesia khususnya sumatra selatan.
 
    <p align="left">
       <a href="https://youtube.com/@PejuangSekolahOnline?feature=shared">
