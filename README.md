@@ -105,4 +105,8 @@
 ![Reza Mahendra GitHub stats](https://github-readme-stats.vercel.app/api?username=RezaMahendra21&hide=contribs,prs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RezaMahendra21&layout=compact)
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RezaMahendra21&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![](https://komarev.com/ghpvc/?username=RezaMahendra21)
