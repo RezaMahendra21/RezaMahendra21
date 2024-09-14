@@ -89,10 +89,10 @@
 <a href="mailto:ejakganosec@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="#">
-<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+<a href=": https://www.linkedin.com/in/reza-mahendra-252b9a324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<img alt="Linkedlin" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
-<a href="instagram">
+<a href="https://www.instagram.com/rezamahendra2001?igsh=MWZraGkza216NWMxaQ==">
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
