@@ -1,12 +1,9 @@
 
 <h1 align="center">Hai 👋, Selamat datang di Github saya.!</h1>
 
+<h1><b>Kenalin Saya Reza Mahendra.<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></b></h1>
 
-<h1><b>Kenalin Saya Reza Mahendra.</b><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-
-</br> I'm RezaMahendra, Fullstack Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="20" style="margin: 0; padding: 0;"/> <b>Sumatera Selatan, Indonesia</b>.</p>
-
-<p>Saya Merupakan Programmer Pemula Yang Bersemangat Untuk Menjadi Seorang Profesional Programmer, Saya Dari Kota Pagar Alam Sumatra Selatan. Saya memiliki dasar yang kuat dalam beberapa bahasa pemrograman dan terus belajar untuk meningkatkan keterampilan saya di dunia teknologi. Fokus saya saat ini adalah mengembangkan kemampuan dalam pemrograman dan mencari peluang untuk berkontribusi dalam proyek-proyek nyata yang dapat memberikan dampak positif untuk masyarakat indonesia khususnya sumatra selatan.</p>
+<p>Saya Merupakan Programmer Pemula Yang Bersemangat Untuk Menjadi Seorang Profesional Programmer, Saya Dari Kota Pagar Alam, Sumatra Selatan, Indonesia<img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="20" style="margin: 0; padding: 0;"/>. Saya memiliki dasar yang kuat dalam beberapa bahasa pemrograman dan terus belajar untuk meningkatkan keterampilan saya di dunia teknologi. Fokus saya saat ini adalah mengembangkan kemampuan dalam pemrograman dan mencari peluang untuk berkontribusi dalam proyek-proyek nyata yang dapat memberikan dampak positif untuk masyarakat indonesia khususnya sumatra selatan.</p>
 
 <p>
 <a target="_blank" href="rezamahendra21.github.io">
