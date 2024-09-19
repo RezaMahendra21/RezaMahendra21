@@ -6,13 +6,13 @@
 <p>Saya Merupakan Programmer Pemula Yang Bersemangat Untuk Menjadi Seorang Profesional Programmer, Saya Dari Kota Pagar Alam, Sumatra Selatan, Indonesia<img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="20" style="margin: 0; padding: 0;"/>. Saya memiliki dasar yang kuat dalam beberapa bahasa pemrograman dan terus belajar untuk meningkatkan keterampilan saya di dunia teknologi. Fokus saya saat ini adalah mengembangkan kemampuan dalam pemrograman dan mencari peluang untuk berkontribusi dalam proyek-proyek nyata yang dapat memberikan dampak positif untuk masyarakat indonesia khususnya sumatra selatan.</p>
 
 <p>
-<a target="_blank" href="https://rezamahendra21.github.io">
+<a target="_blank" href="https://lynk.id/ejak.com">
 <img alt="My Projects" src="https://img.shields.io/badge/My Project-339933?style=for-the-badge&logo=nodedotjs&logoColor=black">
 </a>
 <a target="_blank" href="https://rezamahendra21.github.io">
 <img alt="My Portfolio Website" src="https://img.shields.io/badge/My Portfolio-FCC624?style=for-the-badge&logoColor=black">
 </a>
-<a target="_blank" href="https://lynk.id/ejak.com">
+<a target="_blank" href="https://youtube.com/@pejuangsekolahonline?feature=shared">
 <img alt="YouTube" src="https://img.shields.io/badge/My YouTube-FF2D20?style=for-the-badge&logoColor=black">
 </a>
 </p>
