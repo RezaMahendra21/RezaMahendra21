@@ -7,10 +7,13 @@
 
 <p>
 <a target="_blank" href="https://rezamahendra21.github.io">
+<img alt="My Projects" src="https://img.shields.io/badge/My Project-339933?style=for-the-badge&logo=nodedotjs&logoColor=black">
+</a>
+<a target="_blank" href="https://rezamahendra21.github.io">
 <img alt="My Portfolio Website" src="https://img.shields.io/badge/My Portfolio-FCC624?style=for-the-badge&logoColor=black">
 </a>
 <a target="_blank" href="https://lynk.id/ejak.com">
-<img alt="My Projects" src="https://img.shields.io/badge/My Projects-FF2D20?style=for-the-badge&logoColor=black">
+<img alt="YouTube" src="https://img.shields.io/badge/My YouTube-FF2D20?style=for-the-badge&logoColor=black">
 </a>
 </p>
 
